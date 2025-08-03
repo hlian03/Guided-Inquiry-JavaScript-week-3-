@@ -1,0 +1,36 @@
+body {
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 40px;
+     background-color: lab(13.62% 4.26 -2.97);
+     text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: rgb(154, 243, 154);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+ h1 {
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.console-message {
+    background: #95adee;
+    color: #0b0c0c;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: 'Courier New', monospace;
+    font-size: 18px;
+    margin: 20px 0;
+    border: 2px solid #34495e;
+}
+
+
+
+
+       
